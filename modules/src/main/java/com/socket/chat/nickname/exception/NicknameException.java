@@ -1,4 +1,4 @@
-package com.websocket.chat.nickname.exception;
+package com.socket.chat.nickname.exception;
 
 public class NicknameException extends Exception {
 

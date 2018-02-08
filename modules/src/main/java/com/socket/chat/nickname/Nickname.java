@@ -1,6 +1,6 @@
-package com.websocket.chat.nickname;
+package com.socket.chat.nickname;
 
-import com.websocket.chat.nickname.exception.NicknameException;
+import com.socket.chat.nickname.exception.NicknameException;
 
 public class Nickname {
 

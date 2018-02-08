@@ -1,4 +1,4 @@
-package com.websocket.chat.util;
+package com.socket.chat.util;
 
 public class PrinterUtil {
 
